@@ -77,6 +77,7 @@ Common tmux key names:
 - `Up`, `Down`, `Left`, `Right` - Arrow keys
 - `Space` - Space bar
 - `BSpace` - Backspace
+- `BTab` - Shift+Tab
 
 ### Working Directory
 
